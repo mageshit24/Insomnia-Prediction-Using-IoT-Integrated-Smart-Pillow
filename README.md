@@ -120,4 +120,8 @@ Insomnia_Prediction_Smart_Pillow/
     ├── predict.py
     ├── Server.js
     └── train_model.py
+```
 
+## 📬 Contact
+
+**LinkedIn:** [Magesh Hariram K](https://www.linkedin.com/in/magesh-hariram-k-6011132a4)

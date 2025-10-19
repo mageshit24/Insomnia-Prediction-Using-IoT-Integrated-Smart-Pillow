@@ -83,10 +83,10 @@ The system operates across four primary layers:
 ## 🧑‍💻 Contributors
 | Name | Role |
 |------|------|
-| **Magesh Hariram K** | Team Leader & IoT & Database Connection |
-| **Hariharan S** | Presentation Making (PPT) & Documentation |
+| **Magesh Hariram K** | Team Leader & IoT Implementation & Database Connection |
+| **Hariharan S** | IoT Implementation (assist) & Documentation |
 | **Nisha G** | Software Development & Testing |
-| **Sowmiya A** | AI Model |
+| **Sowmiya A** | AI Model & Presentation Making (PPT) |
 
 **Supervisor:** Mr. B. Manikandan, M.E., (Ph.D)
 

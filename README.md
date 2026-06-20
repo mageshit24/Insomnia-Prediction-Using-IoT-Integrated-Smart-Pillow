@@ -167,7 +167,7 @@ By default the API listens on port `3000` and connects to a local MongoDB instan
 <img width="940" height="486" alt="Server_Connection" src="https://github.com/user-attachments/assets/42d5bafa-2112-447a-8fb1-5bb1f1b146f0" />
 <img width="940" height="528" alt="Data_Collection" src="https://github.com/user-attachments/assets/f4dfb6c5-f55a-4bbb-a1ff-72a5668eca6d" />
 
-## 🧑‍💻 Contributors
+## 🧑‍💻 Team Composition
 
 | Name | Role |
 |---|---|

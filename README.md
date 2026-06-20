@@ -140,7 +140,6 @@ By default the API listens on port `3000` and connects to a local MongoDB instan
 ## ⚠️ Known Limitations / Notes for Contributors
 
 - Credentials are currently hardcoded (Blynk token, Wi-Fi password, MongoDB URI). For any real deployment, move these to environment variables or a `secrets.h` / `.env` file that's excluded via `.gitignore`.
-- `Server/node_modules` is checked into the repo — add a `.gitignore` and run `npm install` locally instead.
 - `Server.js` invokes `predict.py` via `child_process.exec` with string-interpolated arguments; for production use, prefer `execFile` with an argument array to avoid shell-injection risk.
 - `dataset.csv` is a small illustrative dataset; prediction accuracy will scale with more real sensor data.
 
